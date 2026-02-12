@@ -26,4 +26,4 @@ Export Google AI Mode chats to Markdown with one click.
 - If the page layout changes, selectors may need updates.
 
 ## License
-Choose a license (MIT is common for small scripts). Add it as a `LICENSE` file if you’d like.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
